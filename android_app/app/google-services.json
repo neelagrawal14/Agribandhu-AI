@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "695978292977",
+    "firebase_url": "https://agribandhu-4b7dd-default-rtdb.firebaseio.com",
+    "project_id": "agribandhu-4b7dd",
+    "storage_bucket": "agribandhu-4b7dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695978292977:android:781e5f06b13da861639b50",
+        "android_client_info": {
+          "package_name": "com.example.agribandhu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCglijNIxf0e40pqySxNQFxIcy7Vo5vUKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

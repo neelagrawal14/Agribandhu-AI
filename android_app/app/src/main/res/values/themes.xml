@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AgriBandhu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Toolbar background -->
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorPrimaryVariant">@android:color/white</item>
+
+        <!-- Toolbar title text -->
+        <item name="colorOnPrimary">#02c40f</item>
+
+        <!-- Force title color in default ActionBar -->
+        <item name="android:textColorPrimary">#02c40f</item>
+        <item name="android:textColor">#02c40f</item>
+        <item name="titleTextColor">#02c40f</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@android:color/white</item>
+    </style>
+</resources>
